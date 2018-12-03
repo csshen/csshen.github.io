@@ -3,10 +3,10 @@ title: "Christopher Shen"
 email: chrisshen@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
 url:                https://csshen.github.io # main url
-baseurl:            /
-permalink:          /:title # Post permalink
+baseurl:            ""
+permalink:          /posts/:title # Post permalink
 
-logo_url: https://www.gettyimages.com/gi-resources/images/CreativeLandingPage/HP_Sept_24_2018/CR3_GettyImages-159018836.jpg
+logo_url: https://avatars1.githubusercontent.com/u/31905477?v=4
 author_name: "Christopher Shen"
 
 # Build settings

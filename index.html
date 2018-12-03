@@ -1,20 +1,16 @@
 ---
 layout: default
-gh: https://www.google.com
+gh: https://github.com/csshen
 ---
 
-
 <section>
-
-	<h1>Christopher Shen</h1>
-	<a href="/">Home</a>
-	<a href="google.com">About</a>
-	<a href={{ page.gh }}>Github</a>
-	<a href="google.com">Resume</a>
-	<a href="google.com">Portfolio</a>
-	<a href="google.com">Blog</a>
-	<a href="google.com">Contact</a>
-
+	<h1 style="text-align: center">Christopher Shen</h1>
+	<div style="text-align: center">
+		<a href="/portfolio">Portfolio</a>
+		<a href={{ page.gh }}>Github</a>
+		<a href="/resume">R&eacute;sum&eacute;</a>
+		<a href="/contact">Contact</a>
+	</div>
 	{% for post in site.posts %}
 		{% unless post.next %}
 			<h3 class="code">{{ post.date | date: '%Y' }}</h3>
