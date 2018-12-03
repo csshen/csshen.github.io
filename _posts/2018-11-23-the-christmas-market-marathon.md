@@ -8,7 +8,7 @@ This semester abroad I have been traveling through Europe using a _Eurail Pass_,
 
 Nevertheless, my friend Will (whose rail pass was also expiring) and I decided to try to visit as many Christmas markets as we could, using our rail passes as much as possible that final day. We ended up visiting three markets in three different countries that day! Our journey took us to Germany, Switzerland, and back to France. Our day started at around 6:00am, and ended a little after 9:00pm.
 
-![Map](/assets/images/christmas-journey-map.png)
+![Map](/assets/images/christmas-journey-map.PNG)
 
 ## Metz, France
 The (Thursday) night before our "Christmas market marathon", was Thanksgiving! Thanksgiving is not celebrated in France, or Europe for that matter, which was a bummer. However, the Christmas market downtown was open that night, so we decided to go explore it. It was a great chance to visit our first Christmas market without traveling far outside of Metz.
