@@ -11,8 +11,10 @@ author_name: "Christopher Shen"
 # Build settings
 markdown: kramdown
 theme: the-plain
+remote_theme: heiswayi/the-plain
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
