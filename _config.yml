@@ -3,7 +3,7 @@ title: "Christopher Shen"
 email: chrisshen@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "csshen.github.io"
+url: "/"
 
 logo_url: https://www.gettyimages.com/gi-resources/images/CreativeLandingPage/HP_Sept_24_2018/CR3_GettyImages-159018836.jpg
 author_name: "Christopher Shen"
