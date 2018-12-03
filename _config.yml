@@ -10,7 +10,7 @@ author_name: "Christopher Shen"
 
 # Build settings
 markdown: kramdown
-theme: the-plain
+#theme: the-plain
 remote_theme: heiswayi/the-plain
 plugins:
   - jekyll-feed
