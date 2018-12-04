@@ -29,6 +29,8 @@ The Freiburger Weihnachtsmarkt sold everything from figurines and candles to orn
 
 There were so many things to eat, but we limited ourselves to just three things. We had another glass of mulled wine, which is known as Gl&uuml;hwein in German.
 
+![Gluhwein](/assets/images/gluhwein.JPG)
+
 **Side note**: When ordering Gl&uuml;hwein, places will require you to put an extra 1-3 Euros deposit for the mug/cup it is served in. If you return it, you get your deposit back, but I just ended up keeping the mugs and began collecting them.
 
 Second, we also had a nice and hot German _wurst_, served on bread topped with onions. I forgot what the specific type of sausage it was, but it was delicious. Finally, we got some delicous _Nutella candied almonds_ to satisfy our sweet tooth. 
@@ -48,15 +50,28 @@ A similar variety of souvenirs, ornaments, and trickets were sold at the many st
 
 As far as food goes, we got another mug of Gl&uuml;hwein, and tried _kartoffelpuffer_, which is a classic German potato pancake, served with applesauce.
 
+![kartoffelpuffer](/assets/images/kart.JPG)
+
 Again, after we finished eating, we headed to the train station, to go to our final stop, Strasbourg, France. We were initially thinking of stopping by Colmar, as it is along the way to Strasbourg, but after looking at the train schedule, we decided to skip it, reluctantly. 
 
 <div class="divider"></div>
 
 ## Strasbourg, France
 
-Coming Soon
+After traveling another hour and a half, we finally made it to Strasbourg, our final stop of the day! Strasbourg is home to one of the most famous Christmas markets in all of Europe, so it was no surprise that it was very large and crowded during opening night. Coming from the train station, there was a small security checkpoint we had to go through, which told volumes about the scale and popularity of this event. Apparently, over 2 people visit the markets every year, which begins a month before Christmas.
+
+The Strasbourg _Christkindelsm&auml;rik_ was much more grand than the other markets we visited and is spread out between _Place Kl&eacute;ber_, _Place Broglie_, and _Place de la Cath&eacute;dral_. There were smaller markets inbetween these, but the bulk of the stalls are scattered among these three. The largest one is definitely the one by the cathedral, which offered a large assortment of mademade crafts and ornaments, in addition to a plethora of food options, inluding vin chaud. The variety at the Strasbourg market was so immense; it is a great place to get those last minute sourvenirs of Christmas gifts!
+I ended up getting a nice handmade ornament from a stall ran by a man and his son. 
+
+![christmas-strasbourg](/assets/images/christmas-strasbourg.JPG)
+
+It was also cool to see the whole city light up with decorations. Lights were strung across buildings, windows housed elaborate Christmas scenes, and of course a massive tree was put up.
+
+The Strasbourg Christmas market was a wonderful experience with an endless supply of souvenirs and stalls. However, I do feel some of the charm of smaller markets was lost; the Freiburg market was more relaxed and cozy. That is not to say I didn't enjoy Strasbourg; I still definitly would go again if I had the chance.
+
+We were a little rushed for time, but after exploring the main markets and getting a snack, we left Strasbourg around 7:20pm, and got back to Metz around 9:00pm. Needless to say, we were pretty exhausted after our adventure, and all Christmas'ed out for the time being.
+
 
 
 ### Video Recap
 Coming soon
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
