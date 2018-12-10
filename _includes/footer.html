@@ -1,3 +1,40 @@
 <div class="footer">
-  <span class="block">&copy; {{ site.time | date: '%Y' }} {{ site.author_name }}</span>
+{% if page.url != '/contact/' %}
+		
+<div style="text-align: center">
+<a href="mailto:chrisshen@gatech.edu?Subject=Hello" 
+	style="border-bottom: 0px"
+	<i class="far fa-envelope"></i>
+</a>
+&emsp;
+<a href="" 
+	style="border-bottom: 0px"
+	<i class="fas fa-phone"></i>
+</a>
+&emsp;
+<a href="https://github.com/csshen" 
+	style="border-bottom: 0px"
+	<i class="fab fa-github"></i>
+</a>
+&emsp;
+<a href="https://www.linkedin.com/in/christopher-shen-aa780912b/" 
+	style="border-bottom: 0px"
+	<i class="fab fa-linkedin"></i>
+</a>
+&emsp;
+<a href="https://www.youtube.com/user/CrateNinja/videos" 
+	style="border-bottom: 0px"
+	<i class="fab fa-youtube"></i>
+</a>
+&emsp;
+<a href="https://www.instagram.com/chrissshen/" 
+	style="border-bottom: 0px"
+	<i class="fab fa-instagram"></i>
+</a>
+</div>
+<p></p>
+	
+{% endif %}
+
+<span class="block">&copy; {{ site.time | date: '%Y' }} {{ site.author_name }}</span>
 </div>
