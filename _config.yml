@@ -1,30 +1,93 @@
-# Site settings
-title: "Christopher Shen"
-email: chrisshen@gatech.edu
-description: >- # this means to ignore newlines until "baseurl:"
-url:                https://csshen.github.io # main url
-baseurl:            ""
-permalink:          /posts/:title # Post permalink
+# # # # # # # # # # # # #
+#   K i k o - p l u s   #
+# # # # # # # # # # # # #
 
-logo_url: https://avatars1.githubusercontent.com/u/31905477?v=4
-author_name: "Christopher Shen"
+# Basic
+name:               "Chris Shen"
 
-# Build settings
-markdown: kramdown
-#theme: the-plain
-remote_theme: heiswayi/the-plain
+author:
+  facebook:         
+  youtubeUser:      
+  youtubeChannel:   CrateNinja
+  twitter:          
+  github:           csshen
+  stackoverflow:    
+  quora:            
+  linkedin:         christopher-shen-aa780912b
+  pinterest:        
+  googlePlus:       
+  instagram:        chrissshen
+  reddit:           
+  medium:           
+  tumblr:           
+  email:            chrisshen@gatech.edu
+
+copyright:
+  year:             2018
+  name:             Christopher Shen
+
+# Google-analytics
+google-analytics:
+  id:               ""
+
+# Disqus
+disqus:
+  id:               "csshen"
+
+# URL
+url:                "" # the base hostname & protocol for your site
+# url:                "http://localhost:4000" # use this url when you develop
+baseurl:            "" # the subpath of your site, e.g. /blog
+
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           America/New_York
+permalink:          /posts/:year-:month-:day/:title/
+
+# Pagination
+paginate:           5
+paginate_path:      /page:num/
+
+# Markdown
+markdown:           kramdown
+kramdown:
+  input:            GFM
+
+# Navigation
+nav:
+  - name:           "About"
+    url:            "/about"
+  - name:           "Archive"
+    url:            "/archive"
+  - name:           "Portfolio"
+    url:            "/portfolio"
+  - name:           "Github"
+    url:            "https://github.com/csshen"
+
+# Sass
+sass:
+  sass_dir:         _sass
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-admin
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:            [vendor]
